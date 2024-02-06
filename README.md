@@ -1,52 +1,32 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study
+Lending Club is the largest online peer-to-peer loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Business Objective is to identify variables which are strong indicators of default and potentially use the insights in approval / rejection decision making.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Background](#Background)
+* [Objective](#Objective)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+## Background
+Lending Club is the largest online peer-to-peer loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Somepopular products are credit card loans, debt consolidation loans, house loans, car loans etc. Business Objective To identify variables which are strong indicators of default and potentially use the insights in approval / rejection decision making.
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+## Objective
+To identify the risky loan applicants, so that such loans can be reduced thereby cutting down the amount of credit loss. The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
+Identification of such applicants using EDA is the aim of this case study.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Pandas
+- Matplotlib
+- Numpy
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+## Conclusions
+- 14% of the loans are charged off
+- High interest loans have higher risk of being default
+- Loans disbursed for a longer duration are being defaulted more
+- Poor loan grade and sub-grade are more prone to being defaulted
+- People with public record of bankruptcies & derogratory are high risk cohort
+- 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by data-KY (Kaushal Yada & Pradeep) - feel free to contact me!
