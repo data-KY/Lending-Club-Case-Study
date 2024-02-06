@@ -26,7 +26,6 @@ Identification of such applicants using EDA is the aim of this case study.
 - Loans disbursed for a longer duration are being defaulted more
 - Poor loan grade and sub-grade are more prone to being defaulted
 - People with public record of bankruptcies & derogratory are high risk cohort
-- 
 
 ## Contact
 Created by data-KY (Kaushal Yada & Pradeep) - feel free to contact me!
